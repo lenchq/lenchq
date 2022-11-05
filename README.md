@@ -1,4 +1,4 @@
-#### hi
+### hi
 
 ----
 
@@ -9,7 +9,7 @@ I’m C# (ASP.NET) backend developer, building my projects using SOLID, Software
 
 ----
 
-#### 🛠 My tech stack
+### 🛠 My tech stack
 *form higher to lower:*
 <div style="display:flex; flex-direction:row; justify-content:space-around; width:100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="64"/>
@@ -25,7 +25,7 @@ I’m C# (ASP.NET) backend developer, building my projects using SOLID, Software
 
 -----
 
-#### 🔥My stats
+### 🔥My stats
 
 <div style="display:flex; flex-direction:row; justify-content:space-around; width:100%;">
 
