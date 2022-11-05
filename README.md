@@ -1,16 +1,38 @@
-### Hi there 👋
+#### hi
 
-<!--
-**lenchq/lenchq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----
 
-Here are some ideas to get you started:
+I’m C# (ASP.NET) backend developer, building my projects using SOLID, Software design patterns
+- 👀 I’m interested in **Backend development**, **Software engineering**, **DevOps**
+- 🌱 Currently learning: **.NET CORE**, **Design patterns**, **K8s**
+- 📫 How to reach me: @lenchq on [Telegram](http://t.me/lenchq "@lenchq")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+#### 🛠 My tech stack
+*form higher to lower:*
+<div style="display:flex; flex-direction:row; justify-content:space-around; width:100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="64"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="64" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="64" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="64" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="64" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="64" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="64" />
+</div>
+
+-----
+
+#### 🔥My stats
+
+<div style="display:flex; flex-direction:row; justify-content:space-around; width:100%;">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=lenchq&theme=gruvbox&border_radius=5.2&locale=ru)](https://git.io/streak-stats)
+
+<!--[![Lenchq Stats](https://github-readme-stats.vercel.app/api?username=lenchq&hide=issues&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenchq&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
