@@ -4,7 +4,7 @@
 
 I’m C# (ASP.NET) backend developer, building my projects using SOLID, Software design patterns
 - 👀 I’m interested in **Backend development**, **Software engineering**, **DevOps**
-- 🌱 Currently learning: **.NET CORE**, **Design patterns**, **K8s**
+- 🌱 Currently learning: **.NET CORE**, **Design patterns**, **K8s**, **Microservice Arch**
 - 📫 How to reach me: @lenchq on [Telegram](http://t.me/lenchq "@lenchq")
 
 ----
@@ -12,15 +12,15 @@ I’m C# (ASP.NET) backend developer, building my projects using SOLID, Software
 ### 🛠 My tech stack
 *form higher to lower:*
 <div style="display:flex; flex-direction:row; justify-content:space-around; width:100%;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="64"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="64" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="64" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="64" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="64" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="64" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="64" />
+<img title=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="64"/>
+<img title="Typescipt" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64" />
+<img title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" />
+<img title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="64" />
+<img title="DevOps" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="64" />
+<img title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="64" />
+<img title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="64" />
+<img title="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="64" />
+<img title="Unity" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="64" />
 </div>
 
 -----
