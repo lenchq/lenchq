@@ -20,7 +20,7 @@ I’m C# (ASP.NET) backend developer, building my projects using SOLID, Software
 <img alt="Git"" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="64" />
 <img alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="64" />
 <img alt="Flutter" title="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="64" />
-<img alt="Unity" title="Unity" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="64" />
+<!-- <img alt="Unity" title="Unity" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="64" /> -->
 </div>
 
 -----
