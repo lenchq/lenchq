@@ -5,7 +5,7 @@
 I’m C# (ASP.NET) backend developer, building my projects using SOLID, Software design patterns
 - 👀 I’m interested in **Backend development**, **Software engineering**, **DevOps**
 - 🌱 Currently learning: **.NET CORE**, **Design patterns**, **K8s**, **Microservice Arch**, **(G)RPC**
-- 📫 How to reach me: [@lenchq]((http://t.me/lenchq "@lenchq")
+- 📫 How to reach me: [@lenchq]((https://lenchq.t.me/ "@lenchq")
 
 ----
 
