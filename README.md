@@ -34,6 +34,6 @@ I’m C# (ASP.NET) backend developer, building my projects using SOLID, Software
 <!--[![Lenchq Stats](https://github-readme-stats.vercel.app/api?username=lenchq&hide=issues&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
 [![lenchq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lenchq)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenchq&layout=compact&theme=gruvbox&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenchq&layout=compact&theme=gruvbox&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
