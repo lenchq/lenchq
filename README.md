@@ -32,7 +32,7 @@ I’m C# (ASP.NET) backend developer, building my projects using SOLID, Software
 [![GitHub Streak](https://streak-stats.demolab.com?user=lenchq&theme=gruvbox&border_radius=5.2&locale=ru)](https://git.io/streak-stats)
 
 <!--[![Lenchq Stats](https://github-readme-stats.vercel.app/api?username=lenchq&hide=issues&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
-[![lenchq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lenchq)](https://github.com/anuraghazra/github-readme-stats)
+[![lenchq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lenchq&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenchq&layout=compact&theme=gruvbox&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   
